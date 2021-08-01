@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Mohsin</h1>
 <h3 align="center">A passionate frontend developer from India A & Future Full Stack Dev :)</h3>
 
-- 🔭 I’m currently working on **Web Based NoFap Tracker**
+- 🔭 I’m currently working on **Some Chat App**
 
 - 🌱 I’m currently learning **GraphQL,Svelte ,some more languages & Frameworks**
 
